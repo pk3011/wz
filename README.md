@@ -843,7 +843,7 @@ python3 add_to_team_drive.py -d SharedTeamDriveSrcID
     
 ------
 
-### 📡 ***Generate MongoDB Database***
+### 📡 Generate MongoDB Database
 
 <details>
     <summary><b>View All Steps<b><sup><kbd>Click to Expand</kbd></sup></summary>
