@@ -4,7 +4,7 @@
 <h3 align="center">A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl servers. Made with Pyrogram in Python by WZML-X And HarixTGX Devs.</h3>
 ---
 
-## 📑 ***Repo Features***
+## 📑 Repo Features
 
 <details>
   <summary><b>View All Features <sup><kbd>Click Here</kbd></sup></b></summary>
@@ -194,7 +194,7 @@
 
 ---
 
-## 🗄 ***Deployment Guide***
+## 🗄 Deployment Guide
 
 <details>
   <summary><b>View All Steps</b> <sup><kbd>Click Here</kbd></sup></summary>
@@ -367,7 +367,7 @@ sudo docker image prune -a
     
 ------
 
-### 🤖 ***Bot Commands***
+### 🤖 Bot Commands
 
 <details>
   <summary>Bot commands can be automatically set by <code>SET_COMMANDS</code> Var <sup><kbd>View All Commands</kbd></sup></summary>
@@ -402,7 +402,7 @@ help - All cmds with description
 </details>
 
 
-### 📝 ***Variables Description:***
+### 📝 Variables Description :
 
 <details>
     <summary><b>View All Variables </b><sup><kbd>Click Here</kbd></sup></summary>
@@ -628,7 +628,7 @@ help - All cmds with description
 
 ------
 
-### 🖨 ***Getting Google OAuth API credential file and `token.pickle`***
+### 🖨 Getting Google OAuth API credential file and `token.pickle`
 
 <details>
     <summary><b>View All Steps<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -659,7 +659,7 @@ python3 generate_drive_token.py
     
 ------
 
-### 🧾 ***Generate `rclone.conf`***
+### 🧾 Generate `rclone.conf`
 
 <details>
     <summary><b>View All Steps<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -679,7 +679,7 @@ python3 generate_drive_token.py
     
 ------
 
-### 🔍 ***Multi Upload System***
+### 🔍 Multi Upload System
 
 <details>
     <summary><b>View All Description<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -697,7 +697,7 @@ python3 generate_drive_token.py
     
 ------
 
-### 📃 ***UPSTREAM REPO (Recommended)***
+### 📃 UPSTREAM REPO (Recommended)
 
 <details>
     <summary><b>View All Variables<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -714,7 +714,7 @@ python3 generate_drive_token.py
     
 ------
 
-### 🌱 ***Bittorrent Seed***
+### 🌱 Bittorrent Seed
 
 <details>
     <summary><b>View All Notes<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -734,7 +734,7 @@ python3 generate_drive_token.py
         
 ------
 
-### 📈 ***Using Service Accounts (User Rate Limit)***
+### 📈 Using Service Accounts (User Rate Limit)
 
 <details>
     <summary><b>View All Notes<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -859,7 +859,7 @@ python3 add_to_team_drive.py -d SharedTeamDriveSrcID
     
 ------
 
-### 🗃 ***Multi- Google Drive List***
+### 🗃 Multi- Google Drive List
 
 <details>
     <summary><b>View All Steps<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -882,7 +882,7 @@ TD2 0AO1JDB1t3i5jUk9PVA https://example.dev
 
 -----
 
-### 📢 ***Multi Shortener***
+### 📢 Multi Shortener
 
 <details>
     <summary><b>View All Notes<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -904,7 +904,7 @@ ouo.io LYT0zBn1
         
 -----
         
-### 🎛 ***Extra Start Buttons***
+### 🎛 Extra Start Buttons
         
 <details>
     <summary><b>View All Notes<b><sup><kbd>Click to Expand</kbd></sup></summary>
@@ -916,8 +916,8 @@ button_name button_url
 ```
 Example:
 ```
-Repo_❤️ https://github.com/WZML-X 
-Updates https://t.me/WZML_X
+Repo ❤️ https://github.com/HarixTGX/WZML
+Updates https://t.me/OMGxCloud
 ```
 - **Note**: If you want to add space in button name use `_` for add space
 
@@ -925,7 +925,7 @@ Updates https://t.me/WZML_X
         
 -----
         
-### 🔐 ***yt-dlp and Aria2c Authentication Using `.netrc` File***
+### 🔐 yt-dlp and Aria2c Authentication Using `.netrc` File
 
 <details>
     <summary><b>View All Steps<b><sup><kbd>Click to Expand</kbd></sup></summary>
